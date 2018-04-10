@@ -20,4 +20,6 @@ El usuario no debe poder ingresar un campo vacío o que contenga números.
 4. ejecutar fórmula.
 5. Imprimir el resultado de la frase.
 
-![cifradocesar/assets/image/cifradocesar.png]
+  #Diagrama de flujo
+
+![Diagrama de cifradocesar](/assets/image/cifradocesar.png)
